@@ -31,5 +31,3 @@
 11. Thực hành `git branch` và `git checkout`
 12. Thực hành `git merge` và `git rebase`
 13. Thực hành xem history với `git log`
-
-**Demo bài tập vào 15h thứ 7 hàng tuần**
